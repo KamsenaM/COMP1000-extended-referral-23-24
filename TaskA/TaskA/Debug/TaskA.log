@@ -1,0 +1,3 @@
+﻿  TaskA.cpp
+C:\COMP1000 extended referral 23-24\tasks\TaskA\TaskA\TaskA.cpp(168,35): warning C4101: 'e': unreferenced local variable
+  TaskA.vcxproj -> C:\COMP1000 extended referral 23-24\tasks\TaskA\Debug\TaskA.exe
